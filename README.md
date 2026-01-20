@@ -22,13 +22,16 @@
 
 ---
 
-### 🔭 Current Projects
-[![Diddy Bot](https://img.shields.io/badge/Diddy_Bot-Discord-blue?style=for-the-badge&logo=discord)](https://github.com/YourGitHub/Diddy-Bot)
-[![BendingHub](https://img.shields.io/badge/BendingHub-Minecraft-red?style=for-the-badge&logo=minecraft)](https://github.com/YourGitHub/BendingHub) 
+### 🔭🕰️ Projects
+[![Diddy Bot](https://img.shields.io/badge/Diddy_Bot-Discord-blue?style=for-the-badge&logo=discord)](https://github.com/PrestonCurtis1/Diddy-Bot)
+[![MetalDetector](https://img.shields.io/badge/MetalDetector-Tools-orange?style=for-the-badge&logo=github)](https://github.com/PrestonCurtis1/MetalDetector)
+[![StaffSummon](https://img.shields.io/badge/StaffSummon-Tools-purple?style=for-the-badge&logo=github)](https://github.com/PrestonCurtis1/staffsummon)
+[![Wordle](https://img.shields.io/badge/StaffSummon-Tools-purple?style=for-the-badge&logo=github)](https://github.com/PrestonCurtis1/Wordle)
+[![Wordle Answer Finder](https://img.shields.io/badge/StaffSummon-Tools-purple?style=for-the-badge&logo=github)](https://github.com/PrestonCurtis1/wordle-answer-finder)
+[![TrackerCompass](https://img.shields.io/badge/StaffSummon-Tools-purple?style=for-the-badge&logo=github)](https://github.com/PrestonCurtis1/TrackerCompass)
 
-### 🕰️ Past Projects
-[![MetalDetector](https://img.shields.io/badge/MetalDetector-Tools-orange?style=for-the-badge&logo=github)](https://github.com/YourGitHub/MetalDetector)  
-[![StaffSummon](https://img.shields.io/badge/StaffSummon-Tools-purple?style=for-the-badge&logo=github)](https://github.com/YourGitHub/StaffSummon)  
+
+
 
 ---
 
