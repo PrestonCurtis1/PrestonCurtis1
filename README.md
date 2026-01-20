@@ -38,7 +38,7 @@
 ### 🤝 Good Friends / Collab Crew
 Here are some awesome people I code with often:  
 [![Houdert6](https://img.shields.io/badge/Houdert6-Dev-blue?style=for-the-badge&logo=github)](https://github.com/Houdert6)  
-[![Cozmyc](https://img.shields.io/badge/Cozmyc-Dev-green?style=for-the-badge&logo=github)](https://github.com/Cozmyc)
+[![Cozmyc](https://img.shields.io/badge/Cozmyc-Dev-green?style=for-the-badge&logo=github)](https://github.com/CozmycDev)
 
 ---
 
