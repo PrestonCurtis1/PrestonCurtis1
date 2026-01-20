@@ -43,21 +43,13 @@ Here are some awesome people I code with often:
 ---
 
 ### 📈 GitHub Stats
-![Unprankable's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unprankable&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Unprankable&layout=compact&theme=radical)
+![Unprankable's GitHub stats]([https://github-readme-stats.vercel.app/api?username=Unprankable&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=PrestonCurtis1&show_icons=true&theme=transparent&hide=issues,contribs&show=prs_merged))
+![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=PrestonCurtis1&layout=compact&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=PrestonCurtis1&layout=compact&theme=transparent))
 
 ---
 
 ### 🌐 Connect with Me
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/YOURID)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOURPROFILE)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOURHANDLE)
-
----
-
-### ⚡ Fun Fact
-I once tried to kiss someone and they said they were about to crash out.  
-Minecraft logic > real life logic.
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/790709753138905129)  
 
 ---
 
