@@ -23,9 +23,9 @@
 ---
 
 ### 🔭🕰️ Projects
-[![Diddy Bot](https://img.shields.io/badge/Diddy_Bot-Repo-blue?style=for-the-badge&logo=github)](https://github.com/PrestonCurtis1/Diddy-Bot)
-[![MetalDetector](https://img.shields.io/badge/MetalDetector-Repo-orange?style=for-the-badge&logo=github)](https://github.com/PrestonCurtis1/MetalDetector)
-[![StaffSummon](https://img.shields.io/badge/StaffSummon-Repo-purple?style=for-the-badge&logo=github)](https://github.com/PrestonCurtis1/staffsummon)
+[![Diddy Bot](https://img.shields.io/badge/Diddy_Bot-Repo-brown?style=for-the-badge&logo=github)](https://github.com/PrestonCurtis1/Diddy-Bot)
+[![MetalDetector](https://img.shields.io/badge/MetalDetector-Repo-silver?style=for-the-badge&logo=github)](https://github.com/PrestonCurtis1/MetalDetector)
+[![StaffSummon](https://img.shields.io/badge/StaffSummon-Repo-yellow?style=for-the-badge&logo=github)](https://github.com/PrestonCurtis1/staffsummon)
 [![Wordle](https://img.shields.io/badge/Wordle-Repo-green?style=for-the-badge&logo=github)](https://github.com/PrestonCurtis1/Wordle)
 [![Wordle Answer Finder](https://img.shields.io/badge/WordleAnswerFinder-Repo-blue?style=for-the-badge&logo=github)](https://github.com/PrestonCurtis1/wordle-answer-finder)
 [![TrackerCompass](https://img.shields.io/badge/TrackerCompass-Repo-red?style=for-the-badge&logo=github)](https://github.com/PrestonCurtis1/TrackerCompass)
