@@ -23,7 +23,7 @@
 ---
 
 ### 🔭🕰️ Projects
-[![Diddy Bot](https://img.shields.io/badge/Diddy_Bot-Repo-brown?style=for-the-badge&logo=github)](https://github.com/PrestonCurtis1/Diddy-Bot)
+[![Rickroll](https://img.shields.io/badge/Diddy_Bot-Repo-brown?style=for-the-badge&logo=github)](https://github.com/PrestonCurtis1/Rickroll)
 [![MetalDetector](https://img.shields.io/badge/MetalDetector-Repo-silver?style=for-the-badge&logo=github)](https://github.com/PrestonCurtis1/MetalDetector)
 [![StaffSummon](https://img.shields.io/badge/StaffSummon-Repo-yellow?style=for-the-badge&logo=github)](https://github.com/PrestonCurtis1/staffsummon)
 [![Wordle](https://img.shields.io/badge/Wordle-Repo-green?style=for-the-badge&logo=github)](https://github.com/PrestonCurtis1/Wordle)
