@@ -2,6 +2,8 @@
 <h3 id="-about-me">🚀 About Me</h3>
 <ul>
 <li>🖥️ Software Engineer | Minecraft server wizard  </li>
+<li>💼 Developer @ <a href="https://github.com/projectkorra">ProjectKorra</a></li>
+<li>🧭 Main developer for <a href="https://github.com/shenanigan-ranch">Shenanigan Ranch</a></li>
 <li>🌱 Always leveling up in Node.js, JS, Python, SQL, and more</li>
 <li>🎨 Origami enthusiast &amp; random life experimenter</li>
 <li>💬 Ask me about coding, bots, Minecraft, or weird hacks</li>
@@ -21,7 +23,8 @@
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&amp;logo=gnu-bash&amp;logoColor=white" alt="Bash"></p>
 <hr>
 <h3 id="-projects">🔭🕰️ Projects</h3>
-<p><a href="https://github.com/PrestonCurtis1/Rickroll"><img src="https://img.shields.io/badge/Rickroll-Repo-brown?style=for-the-badge&amp;logo=github" alt="Rickroll"></a>
+<p><a href="https://github.com/PrestonCurtis1/KorraContexts"><img src="https://img.shields.io/badge/KorraContexts-Repo-teal?style=for-the-badge&amp;logo=github" alt="KorraContexts"></a>
+<a href="https://github.com/PrestonCurtis1/Rickroll"><img src="https://img.shields.io/badge/Rickroll-Repo-brown?style=for-the-badge&amp;logo=github" alt="Rickroll"></a>
 <a href="https://github.com/PrestonCurtis1/MetalDetector"><img src="https://img.shields.io/badge/MetalDetector-Repo-silver?style=for-the-badge&amp;logo=github" alt="MetalDetector"></a>
 <a href="https://github.com/PrestonCurtis1/staffsummon"><img src="https://img.shields.io/badge/StaffSummon-Repo-yellow?style=for-the-badge&amp;logo=github" alt="StaffSummon"></a>
 <a href="https://github.com/PrestonCurtis1/Wordle"><img src="https://img.shields.io/badge/Wordle-Repo-green?style=for-the-badge&amp;logo=github" alt="Wordle"></a>
@@ -36,4 +39,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrestonCurtis1&amp;layout=compact&amp;theme=transparent" alt="Top Langs"></p>
 <hr>
 <h3 id="-connect-with-me">🌐 Connect with Me</h3>
-<p><a href="https://discordapp.com/users/790709753138905129"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord"></a>  </p>
+<p><a href="https://discordapp.com/users/790709753138905129"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord"></a>
+<a href="https://unprankable.bendinghub,net"><img src="https://img.shields.io/badge/Website-unprankable.bendinghub%2Cnet-1f6feb?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Website"></a></p>
