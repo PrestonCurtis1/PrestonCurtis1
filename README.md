@@ -40,4 +40,4 @@
 <hr>
 <h3 id="-connect-with-me">🌐 Connect with Me</h3>
 <p><a href="https://discordapp.com/users/790709753138905129"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord"></a>
-<a href="https://unprankable.bendinghub,net"><img src="https://img.shields.io/badge/Website-unprankable.bendinghub%2Cnet-1f6feb?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Website"></a></p>
+<a href="https://unprankable.bendinghub.net"><img src="https://img.shields.io/badge/Website-unprankable.bendinghub.net-1f6feb?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Website"></a></p>
